@@ -6,4 +6,7 @@ A bit like [link.space](https://link.space/) that lets you put all of your socia
 
 ## Why did I not build it?
 From what I observed, the most important platforms to integrate would be YouTube and X (Twitter), but since the X API has no reasonable pricing, I would not be able to integrate it. And without X, the project would not be as useful as I intended it to be.
+
+---
+
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/e8d77cb5-f26f-44ce-a6f7-0e1b0618efea">
